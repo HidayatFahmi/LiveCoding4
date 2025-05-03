@@ -31,12 +31,12 @@ class ShoppingItem {
 }
 
 const dataBelanja = [
-  { nama: "Nasi", harga: 12000, kategori: "makanan" },
-  { nama: "Baju", harga: 75000, kategori: "pakaian" },
-  { nama: "Pensil", harga: 3000, kategori: "alat tulis" },
-  { nama: "Roti", harga: 10000, kategori: "makanan" },
-  { nama: "Celana", harga: 85000, kategori: "pakaian" },
-  { nama: "Pulpen", harga: 5000, kategori: "alat tulis" },
+  { nama: "Ayam Goreng", harga: 18000, kategori: "makanan" },
+  { nama: "Jaket", harga: 120000, kategori: "pakaian" },
+  { nama: "Buku Tulis", harga: 6000, kategori: "alat tulis" },
+  { nama: "Soto Ayam", harga: 15000, kategori: "makanan" },
+  { nama: "Kaos", harga: 55000, kategori: "pakaian" },
+  { nama: "Spidol", harga: 4000, kategori: "alat tulis" },
 ];
 
 const daftar = new ShoppingItem(dataBelanja);
@@ -87,12 +87,12 @@ class ShoppingItem2 {
 }
 
 const dataBelanja2 = [
-  { nama: "Nasi", harga: 12000, kategori: "makanan" },
-  { nama: "Baju", harga: 75000, kategori: "pakaian" },
-  { nama: "Pensil", harga: 3000, kategori: "alat tulis" },
-  { nama: "Roti", harga: 10000, kategori: "makanan" },
-  { nama: "Celana", harga: 85000, kategori: "pakaian" },
-  { nama: "Pulpen", harga: 5000, kategori: "alat tulis" },
+  { nama: "Ayam Goreng", harga: 18000, kategori: "makanan" },
+  { nama: "Jaket", harga: 120000, kategori: "pakaian" },
+  { nama: "Buku Tulis", harga: 6000, kategori: "alat tulis" },
+  { nama: "Soto Ayam", harga: 15000, kategori: "makanan" },
+  { nama: "Kaos", harga: 55000, kategori: "pakaian" },
+  { nama: "Spidol", harga: 4000, kategori: "alat tulis" },
 ];
 
 const daftar2 = new ShoppingItem2(dataBelanja2);
